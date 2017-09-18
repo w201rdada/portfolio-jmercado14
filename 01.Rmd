@@ -1,3 +1,9 @@
+---
+author: "Jennifer Podracky"
+date: "September 18, 2017"
+output: html_document
+---
+
 # A Coach's Companion {#slug An in-game tool for split-second football play recommendations}
 
 #### Keywords
