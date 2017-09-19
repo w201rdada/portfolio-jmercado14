@@ -4,7 +4,7 @@ date: "September 18, 2017"
 output: html_document
 ---
 
-# The Coach's Companion {#In-game tool for split-second football play recommendations}
+# The Coach's Companion {#coachs-companion-nfl}
 
 #### Keywords
 
