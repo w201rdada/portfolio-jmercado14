@@ -29,7 +29,3 @@ No app will ever replace a coach's intuition, but the Companion can provide an e
 
 ^3^ https://en.wikipedia.org/wiki/Play_clock 
 
-## Inspiration
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Sports](https://xkcd.com/904/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/sports.png')
-```
