@@ -1,4 +1,4 @@
-# My second cool idea {#slug-two}
+# Sci-FI: The Latest in Fantasy Draft Intellience {#slug-two}
 
 #### Keywords
 
@@ -6,7 +6,7 @@ yaba, daba, do
 
 ## A beginning.
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+When you hear the words "fantasy sports", you think of DraftKings, FanDuel, Yahoo Fantasy, CBS Sports, ESPN or one of the other myriad companies who've hopped on the growing daily fantasy trade. The market is growing; the number of fantasy sports players has more than tripled in North America over the last 15 years, from 12.6M in 2006 to 41.5M in 2014 ^1^. On average, fantasy players spend $111 USD per year, so the market makes up a massive $4.6B. For users, the news is even better - picking the right roster can net you anywhere from $10 to $1,000,000^2^. As such, the competition is fierce. How can the average Joe compete with the ESPN analysts and other pros who eat, sleep, and breathe sports? 
 
 ## A middle.
 
@@ -23,3 +23,6 @@ Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella
 ## An end.
 
 Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+
+## Bibliography
+^1^ https://fantasy-sport.net/fanduel-vs-draftkings/
