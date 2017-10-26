@@ -6,19 +6,17 @@ fantasy sports
 
 ## A beginning.
 
-When you hear the words "fantasy sports", you think of DraftKings, FanDuel, Yahoo Fantasy, CBS Sports, ESPN or one of the other myriad companies who've hopped on the growing daily fantasy trade. The market is growing; the number of fantasy sports players has more than tripled in North America over the last 15 years, from 12.6M in 2006 to 41.5M in 2014 ^1^.  For fantasy players, picking the right roster can earn you pride amongst your friends as you dominate your league, or even net you anywhere from $10 to $1,000,000^2^ if you put some of your own cash. FanDuel reportedly distributed a whopping $560M in 2014^3^. As such, the competition is fierce, and the potential for . How can the average Joe compete with the ESPN analysts and other pros who eat, sleep, and breathe sports? 
+When you hear the words "fantasy sports", you think of DraftKings, FanDuel, Yahoo Fantasy, CBS Sports, ESPN or one of the other myriad companies who've hopped on the growing daily fantasy trade. The market is growing; the number of fantasy sports players has more than tripled in North America over the last 15 years, from 12.6M in 2006 to 41.5M in 2014 ^1^.  For fantasy players, picking the right roster can earn you pride amongst your friends as you dominate your league, or even net you anywhere from $10 to $1,000,000^2^ if you put down some of your own cash as collateral. FanDuel reportedly distributed a whopping $560M in 2014^3^. As such, the competition is fierce, and the potential winnings for in-the-know fans are even fiercer. The question is, how can the average Joe compete with the ESPN analysts and other pros who eat, sleep, and breathe sports? 
 
 ## A middle.
 
-Sci-FI (Science in Fantasy Intelligence) is the latest tool in the amateur fantasy player's arsenal against the masses, in search of that next cash win. Sci-FI utilizes machine learning to analyze the user's current roster and determine the best starting line up. Factors that play into the line up recomenndations are current opponent's roster, upcoming game schedules for players on the user's roster, current and projected stats, injury status.
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+Sci-FI (Science in Fantasy Intelligence) is the latest tool in the amateur fantasy player's arsenal against the masses, in search of that next cash win. Sci-FI utilizes machine learning to analyze the user's current roster and determine the best starting line up. Factors that play into the line up recommendations are current opponent's roster, upcoming game schedules for players on the user's roster, current and projected stats, and player injury status. Sci-FI's patented algorithms crunch these numbers and spit out the starting line up for your american football or basketball team most likely to net you a win (and depending on your league, some cash too).
+
 
 
 ## An end.
 
-Studies have shown that it's hard to win money via online fantasy sports betting.
+Studies have shown that it's hard to win money via online fantasy sports betting, so for those looking to turn a profit, a tool like Sci-FI pays for itself with your first fantasy win.
 
 ## Bibliography
 ^1^ https://fantasy-sport.net/fanduel-vs-draftkings/
