@@ -1,25 +1,23 @@
-# My second cool idea {#slug-two}
+# Fandemonium {#turning-fantasy-draft-chaos-into-cash}
 
 #### Keywords
 
-yaba, daba, do
+fantasy sports, fantasy draft, daily fantasy
 
-## A beginning.
+## Evaluate the Fantasy Landscape
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+Winning money via daily fantasy sports is a challenge, but 41.5 million people every year are up to the task^1^. Every time that football season approaches, radio and TV channels fill up with ads claiming giant winnings for 24 hours worth of commitment. Draftkings boasts "a new fantasy millionaire every week"^2^, but the reality is that 89.3% of their players lost money across the 2013 and 2014 seasons^3^. In fact, the average fan spends $111 per year on fantasy sports-related bets^1^. The people who come out on top spend hours researching upcoming games, relationships between players, and underpriced prospects just to end up with a positive return on their investment; just 1% of players earn 91% of the overall winnings^4^. How can the average sports fan, with a full time job and a life outside of sports research, possibly come out on top?
 
-## A middle.
+## Finalize your Lineup
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+Fandemonium is the layman's answer to the chaos and danger of the daily fantasy trade. Fandemonium is a Vegas bookie in your pocket; it's an artificial intelligence-enhanced application that analyzes the roster of available players for a given sport, salary per player, current and projected stats, injuries, upcoming games, and more to suggest the draft lineup likely to earn the most points and win you money, given your selected salary cap. Not into football? Fandemonium also prepares recommended rosters for basketball and baseball as well. Have a favorite player that just HAS to be on your roster? You can "lock in" any number of players first, and  Fandemonium will recommend the best combination of players to fill the remaining spots on your roster. With Fandemonium, you don't need to quit your job and study sports analytics full time just to turn a profit - you can let the AI do the math, crunch the numbers, and pick your team for you. 
 
+## Turn Chaos into Cash
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+Fandemonium pays for itself the first time you  use its expert advice to set your lineup and get a taste of that cash win. On average, Fandemonium users win X% more in a given season than daily fantasy players who do not use our advanced technology. It is worth noting that our application is not magic, and so even its expert recommendations will not be 100% accurate with every prediction. The version of Fandemonium currently available is specifically designed for daily fantasy leagues, and does not support season-long draft contests or rotisserie-style drafts. It also does not support any addtional sports at this time, although we are currently working to support soccer, golf, and hockey leagues.
 
-
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
-
-## An end.
-
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+## Bibliography
+^1^ https://fantasy-sport.net/fanduel-vs-draftkings/  
+^2^ http://www.preventionlane.org/draftkings-espn-football  
+^3^ https://splinternews.com/the-percentage-of-players-who-lose-at-daily-fantasy-spo-1793853043  
+^4^ http://www.dailyherald.com/article/20151012/business/151019683/  
