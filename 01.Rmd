@@ -1,44 +1,30 @@
----
-author: "Jennifer Podracky"
-date: "September 18, 2017"
-output: html_document
----
-
-# The Coach's Companion {#nfl-play-recommendation-engine}
+# The Coach's Companion: An NFL Play Recommendation Engine {#coach-companion} <!--good product, shorter slug-->
 
 #### Keywords
 
-football, american football, machine learning, NFL, recommendation
+football, american football, machine learning, NFL, recommendation <!--add tech keywords-->
 
 ## What's in a play?
 
-One play can be the difference between a win or a loss in American football (just ask the 2014 Seahawks Superbowl team^1^). 
-In the 2016 NFL season, teams averaged 64 plays per game^2^, meaning that on average, teams only have ~1,024 plays every season with which to create a championship-winning team (or a championship-losing one). 
+One play can be the difference between a win or a loss in American football (just ask the 2014 Seahawks Superbowl team^[https://www.si.com/nfl/2015/07/21/nfl-worst-play-call-seahawks-patriots-super-bowl-xlix-pete-carroll-marshawn-lynch]). 
+In the 2016 NFL season, teams averaged 64 plays per game^[https://www.sportingcharts.com/nfl/stats/team-plays-per-game/2016/], meaning that on average, teams only have roughly 1,024 plays every season with which to create a championship-winning (or losing) team. 
 Given each individual play's importance, making the correct decision with each play becomes a high-stakes endeavor. 
 Coaches and quarterbacks have to fight time constraints, a roaring crowd, competing opinions from other coaching staff, and their own biases to make the best possible play call for their team in that moment. 
-In reality, 40 seconds between each play^3^ just isn't enough for a coach or quarterback to evaluate all possible options and make the best decision considering the circumstances of that particular game.
+In reality, 40 seconds between each play^[https://en.wikipedia.org/wiki/Play_clock] just isn't enough for a coach or quarterback to evaluate all possible options and make the best decision considering the circumstances of that particular game. <!--Great specification of the stakes-->
 
 ## Making the tough calls
-Enter the Coach's Companion - a tool designed to help North American football organizations (specifically those within the NFL) make the best play call at any given time during a game. 
-The Coach's Companion has access to the last three years of NFL play data, including in-game time, score differential, distance to first down, distance to goal, opposing team defensive stats, and possessing team quarterback stats for every play run in regular season games. 
+Enter the Coach's Companion -- a tool designed to help North American football organizations (specifically those within the NFL) make the best play call at any given time during a game. 
+The Coach's Companion has access to the last three years of NFL play data, including in-game time, score differential, distance to first down, distance to goal, opposing team defensive stats, and possessing team quarterback stats for every play run in regular season games. <!--What about game context? Point during game, player fatigue, time remaining.-->
 In stadiums enhanced with video tracking, it also marks the opposing team's position on the field to analyze their defensive line. 
-The Companion keeps track of the status of your current game, compares your current game situation to similar historical ones, and then recommends the offensive play option that is most likely to lead to a first down, scoring position, or optimal defensive position (if punting). 
+The Companion keeps track of the status of your current game, compares your current game situation to similar historical ones, and then recommends the offensive play option that is most likely to lead to a first down, scoring position, or optimal defensive position (if punting). <!--This sounds like a quasi experimental design called propensity score matching. This differs from standard ML.-->
 As soon as one play is over, the Companion has already recommended the next type of play to make, freeing up coaches and QBs to spend their 40 seconds on strategy and effective communication of the specific run, pass, or punt play that works best for their team. 
-The Companion also continues to collect play data and retrain its algorithms over time, meaning that it will continue to get smarter and make more intelligent recommendations as the teams and league evolve. 
+The Companion also continues to collect play data and retrain its algorithms over time, meaning that it will continue to get smarter and make more intelligent recommendations as the teams and league evolve. <!--How similar is the current team to the teams about which there are data? Will the system be weakest on the first game of the season while it learns the current lineup? Or do you not think the particular players will make much of a difference?-->
 
 ## Enhance your performance
 The Coach's Companion has proven to be an invaluable asset to on-the-ground coaching staffs as they make quick, high-pressure decisions in-game. 
 Rather than taking the power out of the coach's hands, the Companion provides him or her the best tools with which to use that power. 
-And it works - teams that use the Coach's Companion and follow its recommendations at least 75% of the time have improved their win percentage by an average of X percentage points, and have improved their game overall point total by an average of Y points. 
+And it works -- teams that use the Coach's Companion and follow its recommendations at least 75% of the time have improved their win percentage by an average of X percentage points, and have improved their game overall point total by an average of Y points. 
 While the Companion is currently limited to offensive play recommendations only, future enhancements to the product will add defensive play recommendations to its repertoire. 
-
+<!--Fun, but let us know the impact on the coaches themselves. How do they experience using this system? What does it enable them to do differently?-->
 No app will ever replace a coach's intuition, but the Companion can provide an extra level of certainty to any game-time decision. 
 With ever-increasing amounts of game and play data available, it only makes sense to give coaches and teams the best decision-making tools around.
-
-## Citations
-^1^ https://www.si.com/nfl/2015/07/21/nfl-worst-play-call-seahawks-patriots-super-bowl-xlix-pete-carroll-marshawn-lynch 
-
-^2^ https://www.sportingcharts.com/nfl/stats/team-plays-per-game/2016/
-
-^3^ https://en.wikipedia.org/wiki/Play_clock 
-
