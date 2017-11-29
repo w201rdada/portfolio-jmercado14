@@ -24,7 +24,7 @@ Welcome to my website!
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
 ```{r hello-benji,echo=FALSE,fig.cap='Fandemonium!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/148-6d4JfPBNqcm-4r2fjys0Gzp5buPUt/view?usp=sharing')
+knitr::include_url('https://drive.google.com/file/d/148-6d4JfPBNqcm-4r2fjys0Gzp5buPUt/preview')
 ```
 
 ### Abstract - Fandemonium {-}
