@@ -12,7 +12,7 @@ library(magrittr)
 ```
 
 
-# Welcome!
+# Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
@@ -27,20 +27,16 @@ Welcome to my website!
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
+### Abstract of my first cool idea {-}
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+The object of the typical daily fantasy league is simple: given a set salary, draft the best possible roster and hope that your team scores more points than your opponents' teams to win cash. Yet, 89.3% of players lose money in a given season. Fandemonium is a Vegas bookie in your pocket; it's an artificial intelligence-enhanced mobile and web app that harnesses the power of predictive analytics to analyze the roster of available players for a given sport, salary per player, current and projected stats, current injuries, upcoming games, and more to suggest the draft lineup likely to earn the most points and win you money. On average, Fandemonium users win X% more often and Y% more cash in a given season than daily fantasy players who do not use our advanced technology.
 
-### Abstract of my second cool idea
+### Abstract - Coach's Companion {-}
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+One play can be the difference between a win or a loss in American football (just ask the 2014 Seahawks Superbowl team). The Coach's Companion is a tool designed to help North American football organizations (specifically those within the NFL) make the best play call at any given time during a game. The Coach's Companion has access to the last three years of NFL play data, including in-game time, score differential, distance to first down, distance to goal, opposing team defensive stats, and possessing team quarterback stats for every play run in regular season games. The Companion also continues to collect play data and retrain its algorithms over time, meaning that it will continue to get smarter and make more intelligent recommendations as the teams and league evolve. 
   
-### Abstract of my third cool idea
+## About the author {-}
 
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
-
-## About the author
-
-Jennifer Podracky is a sports data nerd currently pursuing a Masters of Information in Data Science at the UC Berkeley School of Information. She is also working full-time as Product Manager at Fan Manager, a sports marketing and analytics startup based in Boston, MA. Jenni spends her free time working on data science projects, cooking, and binge watching Stranger Things.
+Jennifer Podracky is a sports data nerd currently pursuing a Masters of Information in Data Science at the UC Berkeley School of Information. She is also working full-time as Product Manager at Fan Manager, a sports marketing and analytics startup based in Boston, MA. Jenni spends her free time working on data science projects, cooking, and binge-watching Stranger Things.
 
 *Updated: `r Sys.Date()`*
